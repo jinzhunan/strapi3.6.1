@@ -7,4 +7,5 @@ module.exports = ({ env }) => ({
     },
   },
   cron: { enabled: false},
+  url: "https://jinzhu-game.herokuapp.com"
 });
