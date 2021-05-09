@@ -1,5 +1,5 @@
 module.exports = ({ env }) => ({
-  host: env('HOST', '0.0.0.0'),
+  host: "https://jinzhu-game.herokuapp.com",
   port: env.int('PORT', 1337),
   admin: {
     auth: {
