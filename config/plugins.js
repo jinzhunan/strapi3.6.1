@@ -14,7 +14,7 @@ module.exports=({ env })=>   ({
             host: 'smtp.gmail.com',
             port: 587,
             username: 'nanjinzhu202012@gmail.com',
-            password: 'woshinjz',
+            password: 'xq_b6!r?237wjqW',
             secure: false
         }
     },
